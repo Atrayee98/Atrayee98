@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Atrayee
-- 👀 I’m interested in Statistics and Data analysis
-- 🌱 I’m currently learning Python
+- 👀 I’m a data scientist who loves to discover the stories data tell
 
 
 <!---
